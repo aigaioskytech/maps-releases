@@ -1,7 +1,7 @@
 {
-  "version": "2.1.1",
+  "version": "2.2.0",
   "date": "2026-09-04",
   "url": "https://github.com/aigaioskytech/maps-releases/releases/latest",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.1.1/AigaioSkytechMaps_Setup_v2.1.1.exe",
-  "notes": "Νέο κλειδί υπογραφής αδειών. Οι άδειες που εκδίδονται από εδώ και πέρα δουλεύουν μόνο σε αυτή την έκδοση και μετά — αν έχετε άδεια από παλιότερη έκδοση, ζητήστε νέα. Οι άδειες δηλώνουν πλέον ρητά ποιες ενότητες ξεκλειδώνουν (Φωτογραμμετρία, Visual Mapping)."
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.2.0/AigaioSkytechMaps_Setup_v2.2.0.exe",
+  "notes": "Το ταίριασμα φωτογραφιών τρέχει πλέον στην κάρτα γραφικών (CUDA) — μετρήθηκε 21 φορές ταχύτερο από τη CPU. Χωρίς κάρτα NVIDIA πέφτει αυτόματα σε CPU. ΣΗΜΑΝΤΙΚΗ ΔΙΟΡΘΩΣΗ: σε υπολογιστές με πολλούς πυρήνες η εφαρμογή κολλούσε και άνοιγε αντίγραφα του εαυτού της στο βήμα «Εξαγωγή χαρακτηριστικών». Ο installer μεγάλωσε γιατί περιλαμβάνει τις βιβλιοθήκες CUDA."
 }
