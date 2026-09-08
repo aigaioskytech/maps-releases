@@ -1,7 +1,7 @@
 {
-  "version": "2.3.3",
+  "version": "2.3.5",
   "date": "2026-09-08",
   "url": "https://github.com/aigaioskytech/maps-releases/releases/latest",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.3.3/AigaioSkytechMaps_Setup_v2.3.3.exe",
-  "notes": "Το ταίριασμα φωτογραφιών έγινε δύο φορές γρηγορότερο και δίνει πλέον σταθερά το ίδιο αποτέλεσμα σε κάθε τρέξιμο, ανεξάρτητα από το τι άλλο τρέχει στην κάρτα γραφικών."
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.3.5/AigaioSkytechMaps_Setup_v2.3.5.exe",
+  "notes": "Εξαγωγή LandXML για Civil 3D και Anadelta Tessera: η επιφάνεια περνάει ως επιφάνεια, με τα τρίγωνά της, έτοιμη για διατομές και ογκομετρήσεις. Νέα επιλογή «Τη θέση ορίζουν τα φωτοσταθερά» στην ευθυγράμμιση, και αναφορά ελέγχου που ξεχωρίζει τα σημεία της λύσης από τα ανεξάρτητα."
 }
