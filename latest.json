@@ -1,7 +1,7 @@
 {
-  "version": "2.3.2",
-  "date": "2026-09-07",
+  "version": "2.3.3",
+  "date": "2026-09-08",
   "url": "https://github.com/aigaioskytech/maps-releases/releases/latest",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.3.2/AigaioSkytechMaps_Setup_v2.3.2.exe",
-  "notes": "Η ευθυγράμμιση προσαρμόζεται πλέον στη μνήμη του υπολογιστή: επιλέγει μόνη της ανάλυση και αριθμό παράλληλων εργατών ώστε να τρέχει άνετα σε κάθε μηχάνημα, από laptop μέχρι σταθμό εργασίας. Ο προσωπικός σύνδεσμος παρακολούθησης διατηρείται σωστά στις ρυθμίσεις."
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.3.3/AigaioSkytechMaps_Setup_v2.3.3.exe",
+  "notes": "Το ταίριασμα φωτογραφιών έγινε δύο φορές γρηγορότερο και δίνει πλέον σταθερά το ίδιο αποτέλεσμα σε κάθε τρέξιμο, ανεξάρτητα από το τι άλλο τρέχει στην κάρτα γραφικών."
 }
