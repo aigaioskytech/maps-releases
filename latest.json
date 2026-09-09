@@ -1,7 +1,7 @@
 {
-  "version": "2.3.8",
+  "version": "2.3.9",
   "date": "2026-09-09",
   "url": "https://github.com/aigaioskytech/maps-releases/releases/latest",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.3.8/AigaioSkytechMaps_Setup_v2.3.8.exe",
-  "notes": "Η αυτόματη γραμμή προχωράει πλέον μόνη της πάνω στην ακμή: ένα κλικ και συνεχίζει όσο τη βλέπει καθαρά, Space για ένα σημείο πίσω, δεξί κλικ για ολοκλήρωση. Η σήμανση φωτοσταθερών ζητά πέντε φωτογραφίες αντί για τρεις, και η αναφορά ακρίβειας ξεχωρίζει σωστά ποια σημεία μπήκαν στη λύση. Λειτουργεί η διαγραφή έργου στο Visual Mapping."
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.3.9/AigaioSkytechMaps_Setup_v2.3.9.exe",
+  "notes": "Στο τέλος κάθε ευθυγράμμισης η εφαρμογή μετράει τι ανάλυση μπορεί να δώσει η πτήση σε κάθε ποιότητα, ώστε να το ξέρετε πριν ξεκινήσετε τα παραδοτέα. Η πυκνή ανακατασκευή δείχνει πλέον ποσοστό και χρόνο που απομένει, αντί για σκέτο «σε εξέλιξη»."
 }
