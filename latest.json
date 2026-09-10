@@ -1,7 +1,7 @@
 {
-  "version": "2.4.0",
+  "version": "2.4.1",
   "date": "2026-09-10",
   "url": "https://github.com/aigaioskytech/maps-releases/releases/latest",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.4.0/AigaioSkytechMaps_Setup_v2.4.0.exe",
-  "notes": "Η ανάλυση της ορθοεικόνας συμπληρώνεται μόνη της με την εφικτή τιμή του έργου, από μέτρηση και όχι από προεπιλογή — αν την αλλάξετε με το χέρι, μένει δική σας. Η στρώση «Πλακίδια» δείχνει τα κελιά στον χάρτη και όταν ο χώρος εργασίας βρίσκεται σε άλλο δίσκο."
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.4.1/AigaioSkytechMaps_Setup_v2.4.1.exe",
+  "notes": "Νέο κουτάκι «m κελί» δίπλα στο Μοντέλο 3D: ορίζετε σε μέτρα το μέγεθος του πλακιδίου και ο χάρτης δείχνει αμέσως πώς κόβεται το έργο, πριν ξεκινήσει η δουλειά. Κενό = το αποφασίζει μόνη της η εφαρμογή από τη μνήμη του υπολογιστή."
 }
