@@ -1,7 +1,7 @@
 {
-  "version": "2.4.1",
-  "date": "2026-09-10",
-  "url": "https://github.com/aigaioskytech/maps-releases/releases/latest",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.4.1/AigaioSkytechMaps_Setup_v2.4.1.exe",
-  "notes": "Νέο κουτάκι «m κελί» δίπλα στο Μοντέλο 3D: ορίζετε σε μέτρα το μέγεθος του πλακιδίου και ο χάρτης δείχνει αμέσως πώς κόβεται το έργο, πριν ξεκινήσει η δουλειά. Κενό = το αποφασίζει μόνη της η εφαρμογή από τη μνήμη του υπολογιστή."
+  "version": "2.5.0",
+  "date": "2026-09-11",
+  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.0-beta1",
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.0-beta1/AigaioSkytechMaps_Setup_v2.5.0-beta1.exe",
+  "notes": "Έκδοση 2.5.0 beta 1: όλη η αλυσίδα (συνόρθωση, πυκνό νέφος, ορθοφωτοχάρτης, μοντέλο 3D) τρέχει μέσα στην εφαρμογή στην κάρτα NVIDIA — χωρίς εξωτερικά προγράμματα. Ορθοφωτοχάρτης στην ανάλυση των φωτογραφιών με ομαλές ραφές, μοντέλο 3D χωρίς πλασματικές επιφάνειες, ογκομέτρηση με βάση το περίγραμμα, αυτόματη ακμή σε πραγματικό χρόνο. Απαιτεί driver NVIDIA 580 ή νεότερο."
 }
