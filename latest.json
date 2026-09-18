@@ -1,7 +1,7 @@
 {
   "version": "2.5.0",
   "date": "2026-09-18",
-  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.0-beta20",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.0-beta20/AigaioSkytechMaps_Setup_v2.5.0-beta20.exe",
-  "notes": "Έκδοση 2.5.0 beta 20: το αρχείο θέσεων του PPK δηλώνει την ακρίβεια της μεθόδου (τουλάχιστον 2 cm οριζόντια, 3 cm υψομετρικά), ώστε τα φωτοσταθερά να έχουν το βάρος που τους αναλογεί στη συνόρθωση, εδώ και σε άλλα λογισμικά· το ίδιο όριο ισχύει και στη μηχανή για κάθε αρχείο θέσεων. Μαζί με όσα έφερε η beta 19: σωστό αρχείο βάσης κατά ώρα, δύο πτήσεις στον ίδιο φάκελο, έλεγχος της θέσης βάσης, ενημέρωση για μερική κάλυψη. Απαιτεί driver NVIDIA 580 ή νεότερο."
+  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.0-beta21",
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.0-beta21/AigaioSkytechMaps_Setup_v2.5.0-beta21.exe",
+  "notes": "Έκδοση 2.5.0 beta 21: νέα επιλογή «Σκάφος» (DJI με RTK ή AirSurveyor + Sony με PPK) που ρυθμίζει μόνη της γεωαναφορά, μοντέλο φακού και απόσταση κεραίας-αισθητήρα, και θυμάται τις τιμές σας ανά σκάφος. Μαζί με όσα έφεραν οι beta 19 και 20: ακρίβεια μεθόδου στις θέσεις PPK, σωστό αρχείο βάσης κατά ώρα, δύο πτήσεις στον ίδιο φάκελο, έλεγχος της θέσης βάσης. Απαιτεί driver NVIDIA 580 ή νεότερο."
 }
