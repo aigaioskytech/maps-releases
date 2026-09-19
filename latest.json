@@ -1,7 +1,7 @@
 {
   "version": "2.5.0",
-  "date": "2026-09-18",
-  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.0-beta21",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.0-beta21/AigaioSkytechMaps_Setup_v2.5.0-beta21.exe",
-  "notes": "Έκδοση 2.5.0 beta 21: νέα επιλογή «Σκάφος» (DJI με RTK ή AirSurveyor + Sony με PPK) που ρυθμίζει μόνη της γεωαναφορά, μοντέλο φακού και απόσταση κεραίας-αισθητήρα, και θυμάται τις τιμές σας ανά σκάφος. Μαζί με όσα έφεραν οι beta 19 και 20: ακρίβεια μεθόδου στις θέσεις PPK, σωστό αρχείο βάσης κατά ώρα, δύο πτήσεις στον ίδιο φάκελο, έλεγχος της θέσης βάσης. Απαιτεί driver NVIDIA 580 ή νεότερο."
+  "date": "2026-09-19",
+  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.0-beta22",
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.0-beta22/AigaioSkytechMaps_Setup_v2.5.0-beta22.exe",
+  "notes": "Έκδοση 2.5.0 beta 22: ο ορθοφωτοχάρτης γράφεται σε ζώνες στην πλήρη ανάλυση ανεξάρτητα από τη μνήμη του υπολογιστή, με συμπίεση JPEG (5-8 φορές μικρότερο αρχείο)· καθαρότερο πυκνό νέφος και υψομετρικό (συνάθροιση κόστους, επιβεβαίωση από τρεις λήψεις, χωρίς «σκαλιά»), το υψομετρικό γεμίζει τα εσωτερικά κενά, τα κεκλιμένα επίπεδα μόνο για κτίρια. Μαζί με όσα έφεραν οι beta 19-21: επιλογές «Σκάφος»/«Θέσεις», PPK και για DJI, ακρίβεια μεθόδου στις θέσεις, έλεγχος βάσης. Απαιτεί driver NVIDIA 580 ή νεότερο."
 }
