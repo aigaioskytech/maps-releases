@@ -1,7 +1,7 @@
 {
   "version": "2.5.0",
   "date": "2026-09-20",
-  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.0-beta24",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.0-beta24/AigaioSkytechMaps_Setup_v2.5.0-beta24.exe",
-  "notes": "Έκδοση 2.5.0 beta 24: πολύ ταχύτερη ορθοαναγωγή μεγάλων έργων (κάθε λήψη προβάλλεται μία-δύο φορές, μόνο στο αποτύπωμά της· έργο 1097 λήψεων στο 1,1 cm σε περίπου μία ώρα αντί για δεκάδες), και σωστές ενδείξεις προόδου. Μαζί με όσα έφεραν οι beta 22-23: ορθοφωτοχάρτης σε ζώνες σε πλήρη ανάλυση, JPEG, καθαρότερο πυκνό νέφος, PPK με μακρινό σταθμό, θέση βάσης στην επίλυση. Απαιτεί driver NVIDIA 580 ή νεότερο."
+  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.0-beta25",
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.0-beta25/AigaioSkytechMaps_Setup_v2.5.0-beta25.exe",
+  "notes": "Έκδοση 2.5.0 beta 25: πολλαπλάσια ταχύτερη ορθοαναγωγή σε πυκνά έργα — η επιλογή λήψης ανά κελί γίνεται σε αραιό πλέγμα 5 cm και κάθε λήψη προβάλλει μόνο τα δικά της κελιά και τη ζώνη ραφής, με ίδιο αποτέλεσμα. Μαζί με όσα έφεραν οι beta 22-24: ορθοφωτοχάρτης σε ζώνες σε πλήρη ανάλυση, JPEG, καθαρότερο πυκνό νέφος, PPK με μακρινό σταθμό, θέση βάσης στην επίλυση. Απαιτεί driver NVIDIA 580 ή νεότερο."
 }
