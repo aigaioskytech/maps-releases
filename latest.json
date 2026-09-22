@@ -1,7 +1,7 @@
 {
   "version": "2.5.0",
-  "date": "2026-09-21",
-  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.0-beta28",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.0-beta28/AigaioSkytechMaps_Setup_v2.5.0-beta28.exe",
-  "notes": "Έκδοση 2.5.0 beta 28: αναφορά όγκων σε PDF — όλες οι περιοχές του έργου σε έναν πίνακα με εμβαδόν, εκσκαφή, επίχωση και καθαρό, σύνολα ανά ομάδα και χάρτη με τα πολύγωνα. Μαζί με όσα έφεραν οι beta 22-27: πολύ ταχύτερος ορθοφωτοχάρτης με σωστά χρώματα σε πτήσεις με σύννεφα ή σκιά, ζώνες σε πλήρη ανάλυση, JPEG, καθαρότερο πυκνό νέφος, PPK με μακρινό σταθμό, θέση βάσης στην επίλυση. Απαιτεί driver NVIDIA 580 ή νεότερο."
+  "date": "2026-09-22",
+  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.0-beta29",
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.0-beta29/AigaioSkytechMaps_Setup_v2.5.0-beta29.exe",
+  "notes": "Έκδοση 2.5.0 beta 29: καθαρά χρώματα στον ορθοφωτοχάρτη — τέλος στα ροζ και πράσινα μπαλώματα, και οι χαλασμένες φωτογραφίες δεν μπαίνουν στον χάρτη. Το μοντέλο 3D παίρνει υφή στην ανάλυση των λήψεων και δεν χοντραίνει όσο μεγαλώνει η περιοχή. Μαζί με όσα έφεραν οι beta 22-28: αναφορά όγκων σε PDF, πολύ ταχύτερος ορθοφωτοχάρτης σε πλήρη ανάλυση, JPEG, καθαρότερο πυκνό νέφος, PPK με μακρινό σταθμό. Απαιτεί driver NVIDIA 580 ή νεότερο."
 }
