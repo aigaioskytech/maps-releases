@@ -1,7 +1,7 @@
 {
   "version": "2.5.0",
   "date": "2026-09-22",
-  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.0-beta33",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.0-beta33/AigaioSkytechMaps_Setup_v2.5.0-beta33.exe",
-  "notes": "Έκδοση 2.5.0 beta 33: όγκος επιφάνειας με ένα κλικ — το Σ δίπλα σε κάθε επιφάνεια μετρά εκσκαφή / επίχωση έναντι του υψομετρικού στο περίγραμμα της ίδιας της επιφάνειας, χωρίς πολύγωνο, όπως το Virtual Surveyor. Μαζί με όσα έφεραν οι beta 22-32: όριο επιφάνειας που κόβει κατακόρυφα, χρώματα ποιότητας στον χάρτη, εξέλιξη στο κινητό, γραμμές θραύσης, αναφορά όγκων σε PDF, καθαρά χρώματα και ταχύτητα στον ορθοφωτοχάρτη. Απαιτεί driver NVIDIA 580 ή νεότερο."
+  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.0-beta34",
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.0-beta34/AigaioSkytechMaps_Setup_v2.5.0-beta34.exe",
+  "notes": "Έκδοση 2.5.0 beta 34: στο Visual Mapping εμφανίζονται η λίστα Επιφάνειες (Σ, ⇄, ΜΕΤΑ/ΠΡΙΝ, διαγραφή), ο διάλογος «από ποιες μετρήσεις» με όριο και τρόπο ορίου, και ένδειξη προόδου. Μαζί με όσα έφεραν οι beta 22-33: όγκος επιφάνειας με ένα κλικ, όριο που κόβει κατακόρυφα, χρώματα ποιότητας στον χάρτη, εξέλιξη στο κινητό, γραμμές θραύσης, αναφορά όγκων σε PDF, καθαρά χρώματα και ταχύτητα στον ορθοφωτοχάρτη. Απαιτεί driver NVIDIA 580 ή νεότερο."
 }
