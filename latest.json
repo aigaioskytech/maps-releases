@@ -1,7 +1,7 @@
 {
   "version": "2.5.0",
-  "date": "2026-09-23",
-  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.0-beta38",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.0-beta38/AigaioSkytechMaps_Setup_v2.5.0-beta38.exe",
-  "notes": "Έκδοση 2.5.0 beta 38: το γέμισμα των κενών του ορθοφωτοχάρτη αποφασίζεται σε αραιό πλέγμα 10 cm και δεν επιβαρύνει πια τον χρόνο — ο ορθοφωτοχάρτης επιστρέφει στους χρόνους της beta 27 με το ίδιο αποτέλεσμα. Μαζί με όσα έφεραν οι beta 22-37: μοντέλο 3D που ανοίγει μόνο του στο Visual Mapping, υφή 3D που προτιμά τις ηλιόλουστες λήψεις, πλαίσιο Επιφάνειες με υπολογισμούς όγκων, χρώματα ποιότητας στον χάρτη, αναφορά όγκων σε PDF. Απαιτεί driver NVIDIA 580 ή νεότερο."
+  "date": "2026-09-24",
+  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.0-beta39",
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.0-beta39/AigaioSkytechMaps_Setup_v2.5.0-beta39.exe",
+  "notes": "Έκδοση 2.5.0 beta 39: το μοντέλο 3D ανοίγει από την οθόνη εισαγωγής του Visual Mapping — διαλέγετε το αρχείο θέσης των πλακιδίων και βρίσκει μόνο του υψομετρικό και ορθοεικόνα· ένδειξη προόδου στο άνοιγμα και στη φόρτωση κάθε πλακιδίου. Μαζί με όσα έφεραν οι beta 22-38: ορθοφωτοχάρτης χωρίς μαύρα κενά και χωρίς καμένα λευκά, υφή 3D που προτιμά τις ηλιόλουστες λήψεις, πλαίσιο Επιφάνειες με υπολογισμούς όγκων, χρώματα ποιότητας στον χάρτη, αναφορά όγκων σε PDF. Απαιτεί driver NVIDIA 580 ή νεότερο."
 }
