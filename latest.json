@@ -1,8 +1,8 @@
 {
-  "version": "2.5.1",
-  "date": "2026-09-24",
-  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.1",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.1/AigaioSkytechMaps_Setup_v2.5.1.exe",
-  "notes": "Έκδοση 2.5.1 — η σειρά 2.5 σταθερή. Όλη η επεξεργασία με δική μας μηχανή (συνόρθωση, πυκνό νέφος, ορθοφωτοχάρτης, υψομετρικά, μοντέλο 3D με υφή), PPK που βρίσκει μόνο του βάση και πτήση, και στο Visual Mapping επιφάνειες από LandXML / DXF με ημερομηνία, σύγκριση ΜΕΤΑ − ΠΡΙΝ και σε πολύγωνο, αναφορά όγκων σε PDF, ορθοεικόνα στο μοντέλο σε πλήρη ανάλυση. Απαιτεί driver NVIDIA 580 ή νεότερο.",
+  "version": "2.5.2",
+  "date": "2026-09-30",
+  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.2",
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.2/AigaioSkytechMaps_Setup_v2.5.2.exe",
+  "notes": "Έκδοση 2.5.2 — έργα με πλάγιες λήψεις (η κλίση της κάμερας βρίσκεται αυτόματα), PPK για πτήσεις DJI με όλους τους αστερισμούς, μοντέλο 3D στο Visual Mapping σε δευτερόλεπτα και «Μόνο το μοντέλο 3D», ορθοφωτοχάρτης με ομοιόμορφο φως, DSM χωρίς σκαλοπάτια και ακίδες, πτήσεις Septentrio κατευθείαν από το USB. Απαιτεί driver NVIDIA 580 ή νεότερο.",
   "channel": ""
 }
