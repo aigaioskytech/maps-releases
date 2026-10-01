@@ -1,8 +1,8 @@
 {
-  "version": "2.5.2",
-  "date": "2026-09-30",
-  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.2",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.2/AigaioSkytechMaps_Setup_v2.5.2.exe",
-  "notes": "Έκδοση 2.5.2 — έργα με πλάγιες λήψεις (η κλίση της κάμερας βρίσκεται αυτόματα), PPK για πτήσεις DJI με όλους τους αστερισμούς, μοντέλο 3D στο Visual Mapping σε δευτερόλεπτα και «Μόνο το μοντέλο 3D», ορθοφωτοχάρτης με ομοιόμορφο φως, DSM χωρίς σκαλοπάτια και ακίδες, πτήσεις Septentrio κατευθείαν από το USB. Απαιτεί driver NVIDIA 580 ή νεότερο.",
+  "version": "2.5.3",
+  "date": "2026-10-01",
+  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.3",
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.3/AigaioSkytechMaps_Setup_v2.5.3.exe",
+  "notes": "Έκδοση 2.5.3 — οι πλάγιες πτήσεις αποκτούν κοινά σημεία με τις κατακόρυφες (εικονική κατακόρυφη όψη), βραχίονας κεραίας ανά πτήση, λιγότερη μνήμη στην ευθυγράμμιση. PPK DJI: λήψεις του ίδιου δευτερολέπτου, επίλυση χωρίς GLONASS για βάση άλλου κατασκευαστή.",
   "channel": ""
 }
