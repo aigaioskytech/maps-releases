@@ -1,8 +1,8 @@
 {
-  "version": "2.5.3",
-  "date": "2026-10-01",
-  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.3",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.3/AigaioSkytechMaps_Setup_v2.5.3.exe",
-  "notes": "Έκδοση 2.5.3 — οι πλάγιες πτήσεις αποκτούν κοινά σημεία με τις κατακόρυφες (εικονική κατακόρυφη όψη), βραχίονας κεραίας ανά πτήση, λιγότερη μνήμη στην ευθυγράμμιση. PPK DJI: λήψεις του ίδιου δευτερολέπτου, επίλυση χωρίς GLONASS για βάση άλλου κατασκευαστή.",
+  "version": "2.5.4",
+  "date": "2026-11-07",
+  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.4",
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.4/AigaioSkytechMaps_Setup_v2.5.4.exe",
+  "notes": "Έκδοση 2.5.4 — λειτουργία «Κτήρια» με επίπεδους τοίχους και νέα υφή στο μοντέλο 3D, τύπος έργου LiDAR P60, PPK: αυστηρή αντιστοίχιση λήψεων και θέση πτήσης από τον δέκτη, νέα κλειδιά αδειών (τα παλιά ισχύουν ως 31/01/2027), τα αρχεία θέσεων και φωτοσταθερών μένουν μέσα στο έργο, κόλλημα σε κόμβους στο Visual Mapping.",
   "channel": ""
 }
