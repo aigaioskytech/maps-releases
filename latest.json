@@ -1,8 +1,8 @@
 {
-  "version": "2.5.4",
-  "date": "2026-11-07",
-  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.4",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.4/AigaioSkytechMaps_Setup_v2.5.4.exe",
-  "notes": "Έκδοση 2.5.4 — λειτουργία «Κτήρια» με επίπεδους τοίχους και νέα υφή στο μοντέλο 3D, τύπος έργου LiDAR P60, PPK: αυστηρή αντιστοίχιση λήψεων και θέση πτήσης από τον δέκτη, νέα κλειδιά αδειών (τα παλιά ισχύουν ως 31/01/2027), τα αρχεία θέσεων και φωτοσταθερών μένουν μέσα στο έργο, κόλλημα σε κόμβους στο Visual Mapping.",
+  "version": "2.5.5",
+  "date": "2026-11-09",
+  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.5",
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.5/AigaioSkytechMaps_Setup_v2.5.5.exe",
+  "notes": "Έκδοση 2.5.5 — PPK: μπάρα προόδου στον υπολογισμό θέσεων, καθαρό ημερολόγιο (οι ενδιάμεσες δοκιμές μόνο στις «Λεπτομέρειες»), ταχύτερη επίλυση με τον συνδυασμό που κέρδισε την προηγούμενη φορά, και αναφορά όταν η βάση έχει κενό δεδομένων. Περιλαμβάνει όλα όσα έφερε η 2.5.4.",
   "channel": ""
 }
