@@ -1,8 +1,8 @@
 {
-  "version": "2.5.5",
-  "date": "2026-11-09",
-  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.5",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.5/AigaioSkytechMaps_Setup_v2.5.5.exe",
-  "notes": "Έκδοση 2.5.5 — PPK: μπάρα προόδου στον υπολογισμό θέσεων, καθαρό ημερολόγιο (οι ενδιάμεσες δοκιμές μόνο στις «Λεπτομέρειες»), ταχύτερη επίλυση με τον συνδυασμό που κέρδισε την προηγούμενη φορά, και αναφορά όταν η βάση έχει κενό δεδομένων. Περιλαμβάνει όλα όσα έφερε η 2.5.4.",
+  "version": "2.5.6",
+  "date": "2026-11-11",
+  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.6",
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.6/AigaioSkytechMaps_Setup_v2.5.6.exe",
+  "notes": "Έκδοση 2.5.6 — Visual Mapping: η αυτόματη γραμμή ακολουθεί το ποντίκι και κλειδώνει σε κάθε κλικ· δεν τρέχει πια μόνη της από το πρώτο κλικ (η αυτόματη συνέχεια είναι προαιρετική). Περιλαμβάνει όλα όσα έφερε η 2.5.5.",
   "channel": ""
 }
