@@ -1,8 +1,8 @@
 {
-  "version": "2.5.6",
-  "date": "2026-11-11",
-  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.6",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.6/AigaioSkytechMaps_Setup_v2.5.6.exe",
-  "notes": "Έκδοση 2.5.6 — Visual Mapping: η αυτόματη γραμμή ακολουθεί το ποντίκι και κλειδώνει σε κάθε κλικ· δεν τρέχει πια μόνη της από το πρώτο κλικ (η αυτόματη συνέχεια είναι προαιρετική). Περιλαμβάνει όλα όσα έφερε η 2.5.5.",
+  "version": "2.5.7",
+  "date": "2026-11-13",
+  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.7",
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.7/AigaioSkytechMaps_Setup_v2.5.7.exe",
+  "notes": "Έκδοση 2.5.7 — PPK και από δέκτες Tersus (.dat)· ένα άλμα στην τροχιά δεν απορρίπτει πια ολόκληρη τη λύση· όταν η μνήμη της κάρτας δεν φτάνει, η νέα προσπάθεια πάει χαμηλότερα και η προειδοποίηση λέει ποιο πρόγραμμα την κρατά. Περιλαμβάνει όλα όσα έφερε η 2.5.6.",
   "channel": ""
 }
