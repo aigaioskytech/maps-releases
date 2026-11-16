@@ -1,8 +1,8 @@
 {
-  "version": "2.5.8",
+  "version": "2.5.9",
   "date": "2026-11-16",
-  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.8",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.8/AigaioSkytechMaps_Setup_v2.5.8.exe",
-  "notes": "Έκδοση 2.5.8 — Πυκνό νέφος σε πλακίδια: η μνήμη της κάρτας δεν εξαρτάται πια από την ανάλυση (3400 px με 1,3 GB αντί για 5,4· «Κτήρια» σε πλήρη ανάλυση από κάρτες 6 GB), ίδιο αποτέλεσμα. Μία λήψη που δεν χωράει δεν σταματά πια σάρωση ωρών· συνέχιση στην ανάλυση που έχει ήδη χάρτες. Περιλαμβάνει όλα όσα έφερε η 2.5.7.",
+  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.9",
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.9/AigaioSkytechMaps_Setup_v2.5.9.exe",
+  "notes": "Έκδοση 2.5.9 — Μεγάλα έργα: η σύντηξη του πυκνού νέφους γράφει στον δίσκο και δεν σταματά πια από έλλειψη μνήμης RAM (έργο 1,45 δισ. σημείων), με το ίδιο αποτέλεσμα. Το νέφος σημείων γράφεται σε πλακίδια, στο ίδιο πλέγμα με το μοντέλο 3D, μαζί με ένα ελαφρύ ενιαίο αρχείο. Μικρές κάρτες γραφικών: «Κτήρια» σε πλήρη ανάλυση με 2,3 GB αντί για 3,7. Περιλαμβάνει όλα όσα έφερε η 2.5.8.",
   "channel": ""
 }
