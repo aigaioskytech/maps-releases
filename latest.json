@@ -1,8 +1,8 @@
 {
-  "version": "2.5.7",
-  "date": "2026-11-13",
-  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.7",
-  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.7/AigaioSkytechMaps_Setup_v2.5.7.exe",
-  "notes": "Έκδοση 2.5.7 — PPK και από δέκτες Tersus (.dat)· ένα άλμα στην τροχιά δεν απορρίπτει πια ολόκληρη τη λύση· όταν η μνήμη της κάρτας δεν φτάνει, η νέα προσπάθεια πάει χαμηλότερα και η προειδοποίηση λέει ποιο πρόγραμμα την κρατά. Περιλαμβάνει όλα όσα έφερε η 2.5.6.",
+  "version": "2.5.8",
+  "date": "2026-11-16",
+  "url": "https://github.com/aigaioskytech/maps-releases/releases/tag/v2.5.8",
+  "exe": "https://github.com/aigaioskytech/maps-releases/releases/download/v2.5.8/AigaioSkytechMaps_Setup_v2.5.8.exe",
+  "notes": "Έκδοση 2.5.8 — Πυκνό νέφος σε πλακίδια: η μνήμη της κάρτας δεν εξαρτάται πια από την ανάλυση (3400 px με 1,3 GB αντί για 5,4· «Κτήρια» σε πλήρη ανάλυση από κάρτες 6 GB), ίδιο αποτέλεσμα. Μία λήψη που δεν χωράει δεν σταματά πια σάρωση ωρών· συνέχιση στην ανάλυση που έχει ήδη χάρτες. Περιλαμβάνει όλα όσα έφερε η 2.5.7.",
   "channel": ""
 }
